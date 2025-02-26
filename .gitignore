@@ -1,0 +1,14 @@
+Accounts-to-answer/acc1/_td_database
+Accounts-to-answer/acc1/_td_files
+Accounts-to-answer/acc1/node_modules
+Accounts-to-answer/acc1/package-lock.json
+Accounts-to-answer/acc1/.env
+
+poller/_td_database/
+Poller/_td_files/
+Poller/node_modules/
+Poller/package-lock.json
+Poller/.env
+
+Screen-observer/node_modules
+Screen-observer/package-lock.json
