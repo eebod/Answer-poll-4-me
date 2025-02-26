@@ -27,7 +27,7 @@ It is expected you run this locally, and then shutdown everything when done..
 How to get the environment variables are explained in their respective readme files.
 - **Accounts-to-answer:** Env readme [here](https://github.com/eebod/Answer-poll-4-me/blob/main/Accounts-to-answer/readme.md)
 - **Poller:** Env readme [here](https://github.com/eebod/Answer-poll-4-me/blob/main/Poller/readme.md)
-- **Screen-observer:** Env readme [here](https://github.com/eebod/Answer-poll-4-me/blob/main/Screeen-observer/readme.md)
+- **Screen-observer:** Env readme [here](https://github.com/eebod/Answer-poll-4-me/blob/main/Screen-observer/readme.md)
 
 
 ## Watch me use this project
